@@ -1,0 +1,13 @@
+<script src="client/dependencies/jquery/jquery.min.js"></script>
+<script src="client/dependencies/popper.js/popper.min.js"></script>
+<script src="client/dependencies/bootstrap/js/bootstrap.min.js"></script>
+<script src="client/dependencies/appear/appear.min.js"></script>
+<script src="client/dependencies/swiper/js/swiper.min.js"></script>
+<script src="client/dependencies/masonry/masonry.min.js"></script>
+<script src="client/dependencies/magnific-popup/js/magnific-popup.min.js"></script>
+<script src="client/dependencies/theia-sticky-sidebar/resize-sensor.min.js"></script>
+<script src="client/dependencies/theia-sticky-sidebar/theia-sticky-sidebar.min.js"></script>
+<script src="client/dependencies/validator/validator.min.js"></script>
+<script src="client/dependencies/tween-max/tween-max.js"></script>
+<script src="client/dependencies/wow/js/wow.min.js"></script>
+<script src="client/assets/js/app.js"></script>
